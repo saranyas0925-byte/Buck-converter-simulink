@@ -19,3 +19,6 @@ The output voltage closely tracked the reference voltage despite changes in inpu
 During load step changes, a transient deviation was observed in the output voltage, followed by rapid recovery, indicating stable behavior.
 The duty cycle adjusted automatically in response to both line and load variations.
 Output current changed proportionally with load resistance, confirming correct power-stage operation.
+## Simulation Results
+Baseline Operation (Vin = 12 V)
+The following figure shows the baseline response of the buck converter under nominal input voltage conditions. The output voltage is regulated to the reference value, while the duty cycle and output current reflect steady-state operation.
