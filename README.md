@@ -23,6 +23,7 @@ Output current changed proportionally with load resistance, confirming correct p
 Baseline Operation (Vin = 12 V)
 The following figure shows the baseline response of the buck converter under nominal input voltage conditions. The output voltage is regulated to the reference value, while the duty cycle and output current reflect steady-state operation.
 ![IMG_0774.jpeg](images/IMG_0774.jpeg)
+![Baseline Waveforms](IMG_0774.jpeg)
 
 
 
